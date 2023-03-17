@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @H0dah
-- 👀 I’m interested in Python, Problem Solving, Data Engineering
 - 💞️ I’m looking to collaborate on open source community
 - 📫 Contact: h.elbadrawe@gmail.com
 
